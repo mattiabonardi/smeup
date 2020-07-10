@@ -1,0 +1,12 @@
+# FILE YAML CONTENENTE IL REGISTRO DEI PROGRAMMI
+
+register:
+  - name: "LOA36_X36"
+    ext: "rpgle"
+    interpreter: "jariko"
+  - name: "UPP_X36"
+    ext: "txt"
+    interpreter: "SCP"
+  - name: "SCRIPTX36"
+    ext: "js"
+    interpreter: "JS_interpreter"
